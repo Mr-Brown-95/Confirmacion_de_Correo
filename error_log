@@ -1,0 +1,66 @@
+[20-May-2021 03:58:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 10
+[20-May-2021 03:58:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 10
+[20-May-2021 05:08:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 30
+[20-May-2021 05:09:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 30
+[20-May-2021 05:11:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 30
+[20-May-2021 05:13:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 30
+[20-May-2021 05:28:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 32
+[20-May-2021 05:36:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 32
+[20-May-2021 05:38:35 UTC] PHP Fatal error:  Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 32
+[20-May-2021 05:40:38 UTC] PHP Fatal error:  Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 32
+[20-May-2021 05:47:45 UTC] PHP Fatal error:  Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 35
+[20-May-2021 05:47:53 UTC] PHP Fatal error:  Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 35
+[20-May-2021 05:47:57 UTC] PHP Fatal error:  Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 35
+[20-May-2021 05:48:48 UTC] PHP Fatal error:  Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 35
+[20-May-2021 05:55:46 UTC] PHP Fatal error:  Call to undefined function validadPassword() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 35
+[20-May-2021 05:57:42 UTC] PHP Fatal error:  Call to undefined function generatetoke() in /home/boxmwwgooada/public_html/nekoboy93.com/registro.php on line 60
+[20-May-2021 06:08:15 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.prod.phx3.secureserver.net' did not match expected CN=`mail.nekoboy93.com' in /home/boxmwwgooada/public_html/nekoboy93.com/PHPMailer/class.smtp.php on line 358
+[20-May-2021 06:25:37 UTC] PHP Notice:  Undefined index: ID in /home/boxmwwgooada/public_html/nekoboy93.com/activar.php on line 10
+[20-May-2021 06:25:37 UTC] PHP Notice:  Undefined index: ID in /home/boxmwwgooada/public_html/nekoboy93.com/activar.php on line 10
+[20-May-2021 06:25:49 UTC] PHP Notice:  Undefined index: ID in /home/boxmwwgooada/public_html/nekoboy93.com/activar.php on line 10
+[20-May-2021 06:26:00 UTC] PHP Notice:  Undefined index: ID in /home/boxmwwgooada/public_html/nekoboy93.com/activar.php on line 10
+[21-May-2021 04:31:31 UTC] PHP Notice:  Undefined index: SERVER NAME in /home/boxmwwgooada/public_html/nekoboy93.com/recupera.php on line 18
+[21-May-2021 04:31:31 UTC] PHP Notice:  Undefined variable: nommbre in /home/boxmwwgooada/public_html/nekoboy93.com/recupera.php on line 20
+[21-May-2021 04:42:41 UTC] PHP Fatal error:  Call to undefined function VerifiaTokenPass() in /home/boxmwwgooada/public_html/nekoboy93.com/cambia_pass.php on line 17
+[21-May-2021 04:54:05 UTC] PHP Fatal error:  Call to undefined function validaPasword() in /home/boxmwwgooada/public_html/nekoboy93.com/guarda_pass.php on line 11
+[21-May-2021 04:54:51 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/nekoboy93.com/funcs/funcs.php on line 235
+[21-May-2021 04:54:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/boxmwwgooada/public_html/nekoboy93.com/welcome.php on line 12
+[21-May-2021 05:02:49 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/nekoboy93.com/funcs/funcs.php on line 235
+[21-May-2021 05:02:49 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/boxmwwgooada/public_html/nekoboy93.com/welcome.php on line 12
+[21-May-2021 05:08:10 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/nekoboy93.com/funcs/funcs.php on line 235
+[21-May-2021 05:08:27 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/nekoboy93.com/funcs/funcs.php on line 235
+[21-May-2021 05:09:45 UTC] PHP Notice:  Undefined index: usuario in /home/boxmwwgooada/public_html/nekoboy93.com/welcome.php on line 8
+[21-May-2021 05:09:45 UTC] PHP Notice:  Undefined index: password in /home/boxmwwgooada/public_html/nekoboy93.com/welcome.php on line 9
+[21-May-2021 05:10:03 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/nekoboy93.com/funcs/funcs.php on line 235
+[21-May-2021 05:10:03 UTC] PHP Notice:  Undefined index: usuario in /home/boxmwwgooada/public_html/nekoboy93.com/welcome.php on line 8
+[21-May-2021 05:10:03 UTC] PHP Notice:  Undefined index: password in /home/boxmwwgooada/public_html/nekoboy93.com/welcome.php on line 9
+[21-May-2021 05:11:37 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/nekoboy93.com/funcs/funcs.php on line 235
+[21-May-2021 05:11:37 UTC] PHP Notice:  Undefined index: usuario in /home/boxmwwgooada/public_html/nekoboy93.com/welcome.php on line 8
+[21-May-2021 05:11:37 UTC] PHP Notice:  Undefined index: password in /home/boxmwwgooada/public_html/nekoboy93.com/welcome.php on line 9
+[21-May-2021 05:13:24 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/nekoboy93.com/funcs/funcs.php on line 235
+[21-May-2021 05:13:53 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/nekoboy93.com/funcs/funcs.php on line 235
+[22-May-2021 01:35:25 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/nekoboy93.com/funcs/funcs.php on line 235
+[24-May-2021 17:14:28 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/vanesagomez.club/funcs/funcs.php on line 235
+[24-May-2021 17:18:03 UTC] PHP Notice:  Undefined index: id_usuario in /home/boxmwwgooada/public_html/vanesagomez.club/welcome.php on line 8
+[24-May-2021 17:18:03 UTC] PHP Notice:  Undefined index: tipo_usuario in /home/boxmwwgooada/public_html/vanesagomez.club/welcome.php on line 54
+[24-May-2021 17:19:13 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/vanesagomez.club/funcs/funcs.php on line 235
+[24-May-2021 17:20:42 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/vanesagomez.club/funcs/funcs.php on line 235
+[24-May-2021 17:21:11 UTC] PHP Notice:  Undefined variable: errors in /home/boxmwwgooada/public_html/vanesagomez.club/funcs/funcs.php on line 235
